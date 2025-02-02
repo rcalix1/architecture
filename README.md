@@ -14,7 +14,7 @@
 
 ## Schools
 
-* Notre Dame: 
+* Notre Dame: https://architecture.nd.edu/about/
 
 ## Architecture design concepts
 
