@@ -1,6 +1,6 @@
 # Architecture
 
-* link
+* links
 
 ## People
 
