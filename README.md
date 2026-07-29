@@ -5,10 +5,15 @@
 * https://east.resinart.com/photo-gallery
 * https://en.wikipedia.org/wiki/Glass_fiber_reinforced_concrete
 * https://www.jlconline.com
+* http://sbebuilders.blogspot.com/2016/10/the-french-guitarde-by-adam-miller.html
+* http://sbebuilders.blogspot.com
+
 
 ## Turrets
 
 * https://www.jlconline.com/?s=turret%20&page=2
+
+## 
 
 ## People
 
