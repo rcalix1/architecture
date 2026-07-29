@@ -5,7 +5,10 @@
 * https://east.resinart.com/photo-gallery
 * https://en.wikipedia.org/wiki/Glass_fiber_reinforced_concrete
 * https://www.jlconline.com
-* 
+
+## Turrets
+
+* https://www.jlconline.com/?s=turret%20&page=2
 
 ## People
 
